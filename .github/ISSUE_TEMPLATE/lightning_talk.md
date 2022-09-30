@@ -1,7 +1,7 @@
 ---
 name: Lightning Talk
 about: Submit a talk idea to participating meetups.
-title: 'TITLE OF YOUR TALK HERE'
+title: ':zap: TITLE OF YOUR TALK HERE'
 labels: talk
 assignees: ''
 
